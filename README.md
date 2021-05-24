@@ -18,7 +18,7 @@
 #### *Bootstrap
 #### *NodeJS
 
-### Demonstração da aplicação
+### Demonstração da aplicação:
 ![Tela inicial](./public/assets/express.gif)
 
 
