@@ -1,9 +1,9 @@
 module.exports = {
     posts: [
         {
-            id: "dagfafsgg",
-            title: "Título teste",
-            description: "Descrição teste"
+            id: "asd654FDS",
+            title: "Prova de Geografia",
+            description: "Prova será aplicada no dia 02/06/2021"
         },
     ],
 
