@@ -5,11 +5,11 @@
 
 ### - Olá comunidade! :D
 
-### -Comecei a estudar Node.JS e seus principais pacotes. Neste exemplo pude aprender sobre o pacote Express do Node.
+### - Comecei a estudar Node.JS e seus principais pacotes. Neste exemplo pude aprender sobre o pacote Express do Node.
 
-### -Este pacote nos ajuda a criar um servidor web e também em suas requisições como: GET, PUT, POST, DELETE e etc.
+### - Este pacote nos ajuda a criar um servidor web e também auxilia em suas requisições: GET, PUT, POST, DELETE e etc.
 
-### -Estou muito feliz por que neste projeto pude pela primeira vez, integrar o Front-End e o Back-End e entender de verdade como cada um funciona.
+### - Estou muito feliz, pois neste projeto pude pela primeira vez integrar o Front-End e o Back-End e entender de verdade como cada um funciona.
 ### - Nesta aplicação foram usados as seguintes tecnologias:
 
 #### *HTML.
