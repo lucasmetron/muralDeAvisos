@@ -21,7 +21,6 @@
 ### Demonstração da aplicação:
 ![Tela inicial](./public/assets/express.gif)
 
-
 ### Gostou do meu projeto? :D Entre em contato comigo! 
 [Linkedin](https://www.linkedin.com/in/lucas-rosa-058683102/) <br/>
 [Email: lucasmetron@gmail.com](mailto:lucasmetron@gmail.com)
