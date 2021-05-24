@@ -6,7 +6,7 @@ const options = {
     origin: "http://localhost:3000"
 }
 
-router.use(cors(options));
+router.use(cors());
 
 router.get("/all", (req, res) => {
 
