@@ -3,8 +3,6 @@ document.addEventListener('DOMContentLoaded', () => {
 })
 
 function updatePosts() {
-    let array = [];
-
     fetch("http://192.168.0.105:3000/api/all").then(res => {
         return res.json()
     }).then(json => {
@@ -32,9 +30,19 @@ function updatePosts() {
 
     })
 
-    array.push()
 }
 
 function newPost() {
-    let title;
+    let title = document.querySelector("#title").value;
+    let description = document.querySelector("#desc").value;
+
+    let postOb = {
+        title,
+        description
+    }
+
+    fetch("http://192.168.0.105:3000/api/new").then(res => {
+        console.log("deu certo")
+    })
+    console.log(postOb)
 }
